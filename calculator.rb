@@ -1,4 +1,3 @@
-first_number
 first_number=6
 second_number = 8
 sum = first_number + second_number
